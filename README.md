@@ -1,7 +1,7 @@
 
 # ENPM673 Turtlebot Perception Challenge
 
-##Team Members
+## Team Members
 - Varun Lakshmanan - 120169595
 - Harshavarthan Varatharajan - 120258688
 - Nitish Ravisankar Raveendran - 120385506
