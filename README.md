@@ -3,8 +3,10 @@
 
 ## Team Members
 - Varun Lakshmanan - 120169595
+  varunl11@umd.edu
 - Harshavarthan Varatharajan - 120258688
 - Nitish Ravisankar Raveendran - 120385506
+  rrnitish@umd.edu
   
 - Sai Jagadeesh Muralikrishnan - 120172243
   jagkrish@umd.edu
