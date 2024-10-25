@@ -3,12 +3,12 @@
 This is a Group Project of 4 members which involves making a TurtleBot3 to navigate in Dynamic Environments using perception based methods such as Homography, Horizon Detection, Stop Sign Detection, Dynamic object detection.
 
 ## Team Members
-- Varun Lakshmanan/
-  120169595
+- Varun Lakshmanan\
+  120169595\
   varunl11@umd.edu
   
 - Harshavarthan Varatharajan\
-  120258688\
+  120258688
   
 - Nitish Ravisankar Raveendran\
   120385506\
