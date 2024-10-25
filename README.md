@@ -4,18 +4,18 @@ This is a Group Project of 4 members which involves making a TurtleBot3 to navig
 
 ## Team Members
 - Varun Lakshmanan\
-  120169595\
+  UID - 120169595\
   varunl11@umd.edu
   
 - Harshavarthan Varatharajan\
-  120258688
+  UID - 120258688
   
 - Nitish Ravisankar Raveendran\
-  120385506\
+  UID - 120385506\
   rrnitish@umd.edu
   
 - Sai Jagadeesh Muralikrishnan\
-  120172243\
+  UID - 120172243\
   jagkrish@umd.edu
 
 ## How to build / install the `enpm673_final_proj` ROS2 package?
