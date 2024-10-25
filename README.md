@@ -1,14 +1,21 @@
 
 # ENPM673 Turtlebot Perception Challenge
+This is a Group Project of 4 members which involves making a TurtleBot3 to navigate in Dynamic Environments using perception based methods such as Homography, Horizon Detection, Stop Sign Detection, Dynamic object detection.
 
 ## Team Members
-- Varun Lakshmanan - 120169595
+- Varun Lakshmanan/
+  120169595
   varunl11@umd.edu
-- Harshavarthan Varatharajan - 120258688
-- Nitish Ravisankar Raveendran - 120385506
+  
+- Harshavarthan Varatharajan\
+  120258688\
+  
+- Nitish Ravisankar Raveendran\
+  120385506\
   rrnitish@umd.edu
   
-- Sai Jagadeesh Muralikrishnan - 120172243
+- Sai Jagadeesh Muralikrishnan\
+  120172243\
   jagkrish@umd.edu
 
 ## How to build / install the `enpm673_final_proj` ROS2 package?
