@@ -1,5 +1,5 @@
 
-# ENPM673 Turtlebot Perception Challenge
+# Perception Based Robot Navigation
 This is a Group Project of 4 members which involves making a TurtleBot3 to navigate in Dynamic Environments using perception based methods such as Homography, Horizon Detection, Stop Sign Detection, Dynamic object detection.
 
 ## How to build / install the `enpm673_final_proj` ROS2 package?
