@@ -1,6 +1,6 @@
 
 # Perception Based Robot Navigation
-This is a Group Project of 4 members which involves making a TurtleBot3 to navigate in Dynamic Environments using perception based methods such as Homography, Horizon Detection, Stop Sign Detection, Dynamic object detection.
+This project enables TurtleBot3 to navigate dynamic environments using perception-based methods for real-time adaptability. Key techniques include homography-based mapping for ground estimation, horizon detection for obstacle segmentation, stop sign detection for traffic-aware navigation, and dynamic object detection for tracking moving obstacles. By integrating these vision-based approaches, the robot achieves smarter and more efficient autonomous navigation in unpredictable environments.
 
 ## How to build / install the `enpm673_final_proj` ROS2 package?
 
